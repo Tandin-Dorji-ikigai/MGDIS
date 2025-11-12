@@ -1,0 +1,1 @@
+what to install and project start command needs to be given here
